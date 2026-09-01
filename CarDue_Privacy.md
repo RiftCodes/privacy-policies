@@ -1,10 +1,10 @@
 # Privacy Policy — CareDue
 
 **Effective date:** 12 August 2026  
-**Last updated:** 12 August 2026  
+**Last updated:** 2 September 2026  
 **App:** CareDue (`com.reckap.caredue`)  
 **Developer / publisher:** Reckap (CareDue)  
-**Contact:** business@reckap.com   
+**Contact:** business@reckap.com *(replace with your real support email before publishing)*  
 **Host this file:** publish the HTML version at a public HTTPS URL (required by Google Play).  
 HTML copy: [`privacy.html`](./privacy.html)
 
@@ -28,6 +28,7 @@ This Privacy Policy explains what information the App handles, why, and your cho
 | Ads | **Google AdMob** shows ads unless you remove them (week pass / optional IAP) |
 | Photos | Stored **on your device** if you attach camera/gallery images to logs or docs |
 | Notifications | Local/device reminders you can turn off in settings |
+| Home widgets | Optional Android widgets read **on-device** due summary only |
 | Selling data | We do **not** sell your personal information |
 
 ---
@@ -106,9 +107,11 @@ If you are offline, ad requests fail gracefully; your diary remains usable.
 
 ---
 
-## 6. Notifications
+## 6. Notifications & home screen widgets
 
-If you enable reminders, CareDue schedules **local notifications** on the device. Notification content reflects your assets and due items. You can disable reminders in App settings and/or system notification settings.
+**Notifications:** If you enable reminders, CareDue schedules **local notifications** on the device. Notification content reflects your assets and due items. You can disable reminders in App settings and/or system notification settings.
+
+**Home screen widgets (Android):** Optional widgets (due glance, next due, quick actions) show summaries from your **local** CareDue data. Widget preferences are stored on your device. Widgets do not upload your diary to CareDue servers in the current version.
 
 ---
 
