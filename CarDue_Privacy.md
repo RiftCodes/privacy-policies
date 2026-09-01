@@ -4,7 +4,7 @@
 **Last updated:** 2 September 2026  
 **App:** CareDue (`com.reckap.caredue`)  
 **Developer / publisher:** Reckap (CareDue)  
-**Contact:** business@reckap.com *(replace with your real support email before publishing)*  
+**Contact:** business@reckap.com 
 **Host this file:** publish the HTML version at a public HTTPS URL (required by Google Play).  
 HTML copy: [`privacy.html`](./privacy.html)
 
